@@ -3,6 +3,8 @@
 此專案為106學年度成大工科系專題競賽之作品，由於該專案由多個模組構成，故僅在此列該專題之說明文件[0]
 以及各分項Github頁面之url[1][2][3]。
 
+![arch](./SystemArchitecture.png)
+
 ## 說明文件
 [0]https://drive.google.com/file/d/0B5OUuL-nG1umMURVTnNGSkxEUXM/view?usp=sharing
 
